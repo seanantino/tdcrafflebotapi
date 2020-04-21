@@ -1,2 +1,1 @@
-
-{"version":"1.2.1","download":"https://google.com/"}
+{"version":"1.2.0","download":"https://google.com/"}
