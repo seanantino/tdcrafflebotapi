@@ -1,2 +1,2 @@
 
-{"version":"1.2.0","download":"google.com"}
+{"version":"1.0","download":"google.com"}
