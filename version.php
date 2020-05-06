@@ -1,1 +1,3 @@
-{"version":"1.2.0","download":"https://google.com/"}
+{
+"toolbox": {"version":"1.0.0","download":"https://google.com/"}
+}
